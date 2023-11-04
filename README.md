@@ -125,3 +125,8 @@
   上图表示：62 个真负类、2 个假正类、6 个假负类、42 个真正类。很简单。该平方矩阵的大小随着分类类别的增加而增加。
 
  这个示例中的准确率几乎达到 100%，只有 2 个错误预测。但是并不总是这样。有时你可能需要投入更多时间，研究模型的行为，提出更好、更复杂的解决方案。如果一个网络性能不够好，你需要调整超参数来改进模型。
+
+原文链接：https://medium.com/@howal/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14
+
+ 参考链接：https://www.jiqizhixin.com/articles/2017-12-28-7
+
